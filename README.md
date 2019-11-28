@@ -1,4 +1,4 @@
-# Hexo commands
+# [Hexo commands](https://hexo.io/zh-cn/docs/commands)
 # init
 ```js
 $ hexo init [folder]
