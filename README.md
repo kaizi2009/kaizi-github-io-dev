@@ -1,4 +1,9 @@
 # [Hexo commands](https://hexo.io/zh-cn/docs/commands)
+
+3-hexo操作文档 https://yelog.org/2017/03/23/3-hexo-instruction/
+
+主题  https://github.com/hexojs/hexo-theme-unit-test
+
 # init
 ```js
 $ hexo init [folder]
