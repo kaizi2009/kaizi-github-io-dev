@@ -2,6 +2,8 @@
 title: 个人简介
 ---
 
+![个人简介二维码](https://kaizi2009.github.io/img/github-home.png)
+
 ID: kaizi2009
 
 Github: https://github.com/kaizi2009
