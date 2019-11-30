@@ -1,9 +1,8 @@
 ---
 title: 个人简介
 ---
-# 个人简介
 
-![个人简介](https://github.com/kaizi2009/kaizi-github-io-dev/blob/master/static/img/github-home.png?raw=true)
+![个人简介二维码](/img/github-home.png)
 
 ID: kaizi2009
 
