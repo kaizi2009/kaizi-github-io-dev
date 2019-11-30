@@ -2,7 +2,7 @@
 title: 个人简介
 ---
 
-![个人简介二维码](https://kaizi2009.github.io/img/github-home.png)
+![个人简介二维码](https://kaizi2009.github.io/img/github-io-home-red.png)
 
 ID: kaizi2009
 
